@@ -5,8 +5,8 @@
 A WPF GUI chatbot that educates South African citizens about cybersecurity threats including phishing, malware, password safety, and more.
 
 ## Author
-- **Name:** [Your Full Name]
-- **Student Number:** [Your Student Number]
+- **Name:** [Mihle Madlavu]
+- **Student Number:** [ST10472621]
 
 ## Prerequisites
 - Visual Studio 2022
@@ -29,7 +29,8 @@ A WPF GUI chatbot that educates South African citizens about cybersecurity threa
 - Voice goodbye on exit
 
 ## Screenshot
-![Chatbot GUI](screenshot.png)
+<img width="888" height="687" alt="image" src="https://github.com/user-attachments/assets/05e1cafd-95a3-49cf-aa3c-f4175676db32" />
+
 
 ## Video Presentation
 [YouTube Unlisted Link - Add your link here]
