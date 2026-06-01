@@ -29,9 +29,9 @@ A WPF GUI chatbot that educates South African citizens about cybersecurity threa
 - Voice goodbye on exit
 
 ## Screenshot
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/05e1cafd-95a3-49cf-aa3c-f4175676db32" />
-<img width="500" height="300" alt="Screenshot 2026-06-01 160113" src="https://github.com/user-attachments/assets/20b59a95-36bd-4973-89b6-dec07d24aaed" />
-<img width="500" height="300" alt="Screenshot 2026-06-01 160155" src="https://github.com/user-attachments/assets/f7b852ed-83de-43b4-a54c-3c25d97d415c" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/05e1cafd-95a3-49cf-aa3c-f4175676db32" />
+<img width="600" height="400" alt="Screenshot 2026-06-01 160113" src="https://github.com/user-attachments/assets/20b59a95-36bd-4973-89b6-dec07d24aaed" />
+<img width="600" height="400" alt="Screenshot 2026-06-01 160155" src="https://github.com/user-attachments/assets/f7b852ed-83de-43b4-a54c-3c25d97d415c" />
 
 
 
